@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: db2e690f0ea7e304599e216894d91f4b
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arrow
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Bip01
+  - first:
+      1: 100006
+    second: Bip01 Head
+  - first:
+      1: 100008
+    second: Bip01 L Calf
+  - first:
+      1: 100010
+    second: Bip01 L Clavicle
+  - first:
+      1: 100012
+    second: Bip01 L Finger0
+  - first:
+      1: 100014
+    second: Bip01 L Finger01
+  - first:
+      1: 100016
+    second: Bip01 L Finger02
+  - first:
+      1: 100018
+    second: Bip01 L Finger1
+  - first:
+      1: 100020
+    second: Bip01 L Finger11
+  - first:
+      1: 100022
+    second: Bip01 L Finger12
+  - first:
+      1: 100024
+    second: Bip01 L Finger2
+  - first:
+      1: 100026
+    second: Bip01 L Finger21
+  - first:
+      1: 100028
+    second: Bip01 L Finger22
+  - first:
+      1: 100030
+    second: Bip01 L Finger3
+  - first:
+      1: 100032
+    second: Bip01 L Finger31
+  - first:
+      1: 100034
+    second: Bip01 L Finger32
+  - first:
+      1: 100036
+    second: Bip01 L Finger4
+  - first:
+      1: 100038
+    second: Bip01 L Finger41
+  - first:
+      1: 100040
+    second: Bip01 L Finger42
+  - first:
+      1: 100042
+    second: Bip01 L Foot
+  - first:
+      1: 100044
+    second: Bip01 L Forearm
+  - first:
+      1: 100046
+    second: Bip01 L Hand
+  - first:
+      1: 100048
+    second: Bip01 L Thigh
+  - first:
+      1: 100050
+    second: Bip01 L Toe0
+  - first:
+      1: 100052
+    second: Bip01 L UpperArm
+  - first:
+      1: 100054
+    second: Bip01 Neck
+  - first:
+      1: 100056
+    second: Bip01 Pelvis
+  - first:
+      1: 100058
+    second: Bip01 R Calf
+  - first:
+      1: 100060
+    second: Bip01 R Clavicle
+  - first:
+      1: 100062
+    second: Bip01 R Finger0
+  - first:
+      1: 100064
+    second: Bip01 R Finger01
+  - first:
+      1: 100066
+    second: Bip01 R Finger02
+  - first:
+      1: 100068
+    second: Bip01 R Finger1
+  - first:
+      1: 100070
+    second: Bip01 R Finger11
+  - first:
+      1: 100072
+    second: Bip01 R Finger12
+  - first:
+      1: 100074
+    second: Bip01 R Finger2
+  - first:
+      1: 100076
+    second: Bip01 R Finger21
+  - first:
+      1: 100078
+    second: Bip01 R Finger22
+  - first:
+      1: 100080
+    second: Bip01 R Finger3
+  - first:
+      1: 100082
+    second: Bip01 R Finger31
+  - first:
+      1: 100084
+    second: Bip01 R Finger32
+  - first:
+      1: 100086
+    second: Bip01 R Finger4
+  - first:
+      1: 100088
+    second: Bip01 R Finger41
+  - first:
+      1: 100090
+    second: Bip01 R Finger42
+  - first:
+      1: 100092
+    second: Bip01 R Foot
+  - first:
+      1: 100094
+    second: Bip01 R Forearm
+  - first:
+      1: 100096
+    second: Bip01 R Hand
+  - first:
+      1: 100098
+    second: Bip01 R Thigh
+  - first:
+      1: 100100
+    second: Bip01 R Toe0
+  - first:
+      1: 100102
+    second: Bip01 R UpperArm
+  - first:
+      1: 100104
+    second: Bip01 Spine
+  - first:
+      1: 100106
+    second: Bip01 Spine1
+  - first:
+      1: 100108
+    second: Bow
+  - first:
+      1: 100110
+    second: Broadsword
+  - first:
+      1: 100112
+    second: Broadsword02
+  - first:
+      1: 100114
+    second: c04_bottom
+  - first:
+      1: 100116
+    second: c04_top
+  - first:
+      1: 100118
+    second: fb01
+  - first:
+      1: 100120
+    second: fb02
+  - first:
+      1: 100122
+    second: fb03
+  - first:
+      1: 100124
+    second: fb04
+  - first:
+      1: 100126
+    second: fb05
+  - first:
+      1: 100128
+    second: fb06
+  - first:
+      1: 100130
+    second: Gladius
+  - first:
+      1: 100132
+    second: gladius02
+  - first:
+      1: 100134
+    second: hair01
+  - first:
+      1: 100136
+    second: hair02
+  - first:
+      1: 100138
+    second: hair03
+  - first:
+      1: 100140
+    second: hair04
+  - first:
+      1: 100142
+    second: hair05
+  - first:
+      1: 100144
+    second: hair06
+  - first:
+      1: 100146
+    second: hair07
+  - first:
+      1: 100148
+    second: hair08
+  - first:
+      1: 100150
+    second: hair09
+  - first:
+      1: 100152
+    second: hair10
+  - first:
+      1: 100154
+    second: hair11
+  - first:
+      1: 100156
+    second: hair13
+  - first:
+      1: 100158
+    second: hair14
+  - first:
+      1: 100160
+    second: hair15
+  - first:
+      1: 100162
+    second: hair16
+  - first:
+      1: 100164
+    second: Hammer
+  - first:
+      1: 100166
+    second: Longsword
+  - first:
+      1: 100168
+    second: Shield01
+  - first:
+      1: 100170
+    second: Shield02
+  - first:
+      1: 100172
+    second: Shield03
+  - first:
+      1: 100174
+    second: SpacePistol
+  - first:
+      1: 100176
+    second: SpaceRifle
+  - first:
+      1: 100178
+    second: Spear
+  - first:
+      1: 100180
+    second: WeaponBowString
+  - first:
+      1: 100182
+    second: WeaponLeft
+  - first:
+      1: 100184
+    second: WeaponRight
+  - first:
+      4: 400000
+    second: Arrow
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Bip01
+  - first:
+      4: 400006
+    second: Bip01 Head
+  - first:
+      4: 400008
+    second: Bip01 L Calf
+  - first:
+      4: 400010
+    second: Bip01 L Clavicle
+  - first:
+      4: 400012
+    second: Bip01 L Finger0
+  - first:
+      4: 400014
+    second: Bip01 L Finger01
+  - first:
+      4: 400016
+    second: Bip01 L Finger02
+  - first:
+      4: 400018
+    second: Bip01 L Finger1
+  - first:
+      4: 400020
+    second: Bip01 L Finger11
+  - first:
+      4: 400022
+    second: Bip01 L Finger12
+  - first:
+      4: 400024
+    second: Bip01 L Finger2
+  - first:
+      4: 400026
+    second: Bip01 L Finger21
+  - first:
+      4: 400028
+    second: Bip01 L Finger22
+  - first:
+      4: 400030
+    second: Bip01 L Finger3
+  - first:
+      4: 400032
+    second: Bip01 L Finger31
+  - first:
+      4: 400034
+    second: Bip01 L Finger32
+  - first:
+      4: 400036
+    second: Bip01 L Finger4
+  - first:
+      4: 400038
+    second: Bip01 L Finger41
+  - first:
+      4: 400040
+    second: Bip01 L Finger42
+  - first:
+      4: 400042
+    second: Bip01 L Foot
+  - first:
+      4: 400044
+    second: Bip01 L Forearm
+  - first:
+      4: 400046
+    second: Bip01 L Hand
+  - first:
+      4: 400048
+    second: Bip01 L Thigh
+  - first:
+      4: 400050
+    second: Bip01 L Toe0
+  - first:
+      4: 400052
+    second: Bip01 L UpperArm
+  - first:
+      4: 400054
+    second: Bip01 Neck
+  - first:
+      4: 400056
+    second: Bip01 Pelvis
+  - first:
+      4: 400058
+    second: Bip01 R Calf
+  - first:
+      4: 400060
+    second: Bip01 R Clavicle
+  - first:
+      4: 400062
+    second: Bip01 R Finger0
+  - first:
+      4: 400064
+    second: Bip01 R Finger01
+  - first:
+      4: 400066
+    second: Bip01 R Finger02
+  - first:
+      4: 400068
+    second: Bip01 R Finger1
+  - first:
+      4: 400070
+    second: Bip01 R Finger11
+  - first:
+      4: 400072
+    second: Bip01 R Finger12
+  - first:
+      4: 400074
+    second: Bip01 R Finger2
+  - first:
+      4: 400076
+    second: Bip01 R Finger21
+  - first:
+      4: 400078
+    second: Bip01 R Finger22
+  - first:
+      4: 400080
+    second: Bip01 R Finger3
+  - first:
+      4: 400082
+    second: Bip01 R Finger31
+  - first:
+      4: 400084
+    second: Bip01 R Finger32
+  - first:
+      4: 400086
+    second: Bip01 R Finger4
+  - first:
+      4: 400088
+    second: Bip01 R Finger41
+  - first:
+      4: 400090
+    second: Bip01 R Finger42
+  - first:
+      4: 400092
+    second: Bip01 R Foot
+  - first:
+      4: 400094
+    second: Bip01 R Forearm
+  - first:
+      4: 400096
+    second: Bip01 R Hand
+  - first:
+      4: 400098
+    second: Bip01 R Thigh
+  - first:
+      4: 400100
+    second: Bip01 R Toe0
+  - first:
+      4: 400102
+    second: Bip01 R UpperArm
+  - first:
+      4: 400104
+    second: Bip01 Spine
+  - first:
+      4: 400106
+    second: Bip01 Spine1
+  - first:
+      4: 400108
+    second: Bow
+  - first:
+      4: 400110
+    second: Broadsword
+  - first:
+      4: 400112
+    second: Broadsword02
+  - first:
+      4: 400114
+    second: c04_bottom
+  - first:
+      4: 400116
+    second: c04_top
+  - first:
+      4: 400118
+    second: fb01
+  - first:
+      4: 400120
+    second: fb02
+  - first:
+      4: 400122
+    second: fb03
+  - first:
+      4: 400124
+    second: fb04
+  - first:
+      4: 400126
+    second: fb05
+  - first:
+      4: 400128
+    second: fb06
+  - first:
+      4: 400130
+    second: Gladius
+  - first:
+      4: 400132
+    second: gladius02
+  - first:
+      4: 400134
+    second: hair01
+  - first:
+      4: 400136
+    second: hair02
+  - first:
+      4: 400138
+    second: hair03
+  - first:
+      4: 400140
+    second: hair04
+  - first:
+      4: 400142
+    second: hair05
+  - first:
+      4: 400144
+    second: hair06
+  - first:
+      4: 400146
+    second: hair07
+  - first:
+      4: 400148
+    second: hair08
+  - first:
+      4: 400150
+    second: hair09
+  - first:
+      4: 400152
+    second: hair10
+  - first:
+      4: 400154
+    second: hair11
+  - first:
+      4: 400156
+    second: hair13
+  - first:
+      4: 400158
+    second: hair14
+  - first:
+      4: 400160
+    second: hair15
+  - first:
+      4: 400162
+    second: hair16
+  - first:
+      4: 400164
+    second: Hammer
+  - first:
+      4: 400166
+    second: Longsword
+  - first:
+      4: 400168
+    second: Shield01
+  - first:
+      4: 400170
+    second: Shield02
+  - first:
+      4: 400172
+    second: Shield03
+  - first:
+      4: 400174
+    second: SpacePistol
+  - first:
+      4: 400176
+    second: SpaceRifle
+  - first:
+      4: 400178
+    second: Spear
+  - first:
+      4: 400180
+    second: WeaponBowString
+  - first:
+      4: 400182
+    second: WeaponLeft
+  - first:
+      4: 400184
+    second: WeaponRight
+  - first:
+      23: 2300000
+    second: Arrow
+  - first:
+      23: 2300002
+    second: Broadsword
+  - first:
+      23: 2300004
+    second: Broadsword02
+  - first:
+      23: 2300006
+    second: Gladius
+  - first:
+      23: 2300008
+    second: gladius02
+  - first:
+      23: 2300010
+    second: Hammer
+  - first:
+      23: 2300012
+    second: Longsword
+  - first:
+      23: 2300014
+    second: Shield01
+  - first:
+      23: 2300016
+    second: Shield02
+  - first:
+      23: 2300018
+    second: Shield03
+  - first:
+      23: 2300020
+    second: SpacePistol
+  - first:
+      23: 2300022
+    second: SpaceRifle
+  - first:
+      23: 2300024
+    second: Spear
+  - first:
+      33: 3300000
+    second: Arrow
+  - first:
+      33: 3300002
+    second: Broadsword
+  - first:
+      33: 3300004
+    second: Broadsword02
+  - first:
+      33: 3300006
+    second: Gladius
+  - first:
+      33: 3300008
+    second: gladius02
+  - first:
+      33: 3300010
+    second: Hammer
+  - first:
+      33: 3300012
+    second: Longsword
+  - first:
+      33: 3300014
+    second: Shield01
+  - first:
+      33: 3300016
+    second: Shield02
+  - first:
+      33: 3300018
+    second: Shield03
+  - first:
+      33: 3300020
+    second: SpacePistol
+  - first:
+      33: 3300022
+    second: SpaceRifle
+  - first:
+      33: 3300024
+    second: Spear
+  - first:
+      43: 4300000
+    second: hair07
+  - first:
+      43: 4300002
+    second: hair08
+  - first:
+      43: 4300004
+    second: hair16
+  - first:
+      43: 4300006
+    second: hair09
+  - first:
+      43: 4300008
+    second: hair11
+  - first:
+      43: 4300010
+    second: hair15
+  - first:
+      43: 4300012
+    second: hair10
+  - first:
+      43: 4300014
+    second: hair14
+  - first:
+      43: 4300016
+    second: hair05
+  - first:
+      43: 4300018
+    second: hair01
+  - first:
+      43: 4300020
+    second: hair02
+  - first:
+      43: 4300022
+    second: fb02
+  - first:
+      43: 4300024
+    second: hair03
+  - first:
+      43: 4300026
+    second: fb03
+  - first:
+      43: 4300028
+    second: hair04
+  - first:
+      43: 4300030
+    second: fb04
+  - first:
+      43: 4300032
+    second: hair06
+  - first:
+      43: 4300034
+    second: fb06
+  - first:
+      43: 4300036
+    second: fb01
+  - first:
+      43: 4300038
+    second: c04_top
+  - first:
+      43: 4300040
+    second: c04_bottom
+  - first:
+      43: 4300042
+    second: fb05
+  - first:
+      43: 4300044
+    second: hair13
+  - first:
+      43: 4300046
+    second: SpacePistol
+  - first:
+      43: 4300048
+    second: Arrow
+  - first:
+      43: 4300050
+    second: SpaceRifle
+  - first:
+      43: 4300052
+    second: Spear
+  - first:
+      43: 4300054
+    second: Longsword
+  - first:
+      43: 4300056
+    second: Broadsword
+  - first:
+      43: 4300058
+    second: gladius02
+  - first:
+      43: 4300060
+    second: Hammer
+  - first:
+      43: 4300062
+    second: Broadsword02
+  - first:
+      43: 4300064
+    second: Shield01
+  - first:
+      43: 4300066
+    second: Bow
+  - first:
+      43: 4300068
+    second: Shield02
+  - first:
+      43: 4300070
+    second: Shield03
+  - first:
+      43: 4300072
+    second: Gladius
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Bow
+  - first:
+      137: 13700002
+    second: c04_bottom
+  - first:
+      137: 13700004
+    second: c04_top
+  - first:
+      137: 13700006
+    second: fb01
+  - first:
+      137: 13700008
+    second: fb02
+  - first:
+      137: 13700010
+    second: fb03
+  - first:
+      137: 13700012
+    second: fb04
+  - first:
+      137: 13700014
+    second: fb05
+  - first:
+      137: 13700016
+    second: fb06
+  - first:
+      137: 13700018
+    second: hair01
+  - first:
+      137: 13700020
+    second: hair02
+  - first:
+      137: 13700022
+    second: hair03
+  - first:
+      137: 13700024
+    second: hair04
+  - first:
+      137: 13700026
+    second: hair05
+  - first:
+      137: 13700028
+    second: hair06
+  - first:
+      137: 13700030
+    second: hair07
+  - first:
+      137: 13700032
+    second: hair08
+  - first:
+      137: 13700034
+    second: hair09
+  - first:
+      137: 13700036
+    second: hair10
+  - first:
+      137: 13700038
+    second: hair11
+  - first:
+      137: 13700040
+    second: hair13
+  - first:
+      137: 13700042
+    second: hair14
+  - first:
+      137: 13700044
+    second: hair15
+  - first:
+      137: 13700046
+    second: hair16
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A01
+    second: {fileID: 2100000, guid: b4605fc780f0b914d96835af26d3e6ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A03
+    second: {fileID: 2100000, guid: dcc6b034a8a5ef740a2e4fc4b9b9cbb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A04
+    second: {fileID: 2100000, guid: d645ac8a1724d2e40b5aa0915ea3a837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A05
+    second: {fileID: 2100000, guid: e0365018c8785af4f9fee46aef0bc288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A06
+    second: {fileID: 2100000, guid: 30a8a2537929eae41b4d0c5b89b2b3ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C01
+    second: {fileID: 2100000, guid: ae5b055e9a951624faf183942edf5248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C02
+    second: {fileID: 2100000, guid: d8b88f8b9a248e64c81ef8b5d9bf4917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C03
+    second: {fileID: 2100000, guid: 1a094df2647a48649a089656e7fe1479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C04
+    second: {fileID: 2100000, guid: 267a0cece7ab8ef4184e7080669e47fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C05
+    second: {fileID: 2100000, guid: f19c7ca38c5489748a261274289f7281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C06
+    second: {fileID: 2100000, guid: ebf7f298655e4144f815b0f6ea429fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7'
+    second: {fileID: 2100000, guid: 24671b2dd7967994ea2e04fbc0047ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b03
+    second: {fileID: 2100000, guid: ac7007016cbe2934ea2d3b05e28d9799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b06
+    second: {fileID: 2100000, guid: b41dd77a6b77192469fec82c1521c212, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

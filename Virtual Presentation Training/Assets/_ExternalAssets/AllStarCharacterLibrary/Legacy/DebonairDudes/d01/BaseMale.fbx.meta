@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 3989bbf9973bb0e46b46a0a5216fa70b
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: d01
+  - first:
+      43: 4300002
+    second: m02
+  - first:
+      43: 4300004
+    second: Hair_Thick
+  - first:
+      43: 4300006
+    second: Hair_Short
+  - first:
+      43: 4300008
+    second: Hair_SidePart
+  - first:
+      43: 4300010
+    second: Hair_Messy
+  - first:
+      43: 4300012
+    second: Hair_Modern
+  - first:
+      43: 4300014
+    second: Hair_SlickedBack
+  - first:
+      43: 4300016
+    second: Hair_FlatTop
+  - first:
+      43: 4300018
+    second: m01
+  - first:
+      43: 4300020
+    second: m03
+  - first:
+      43: 4300022
+    second: m04
+  - first:
+      43: 4300024
+    second: m06
+  - first:
+      43: 4300026
+    second: m08
+  - first:
+      43: 4300028
+    second: m09
+  - first:
+      43: 4300030
+    second: m10
+  - first:
+      43: 4300032
+    second: m11
+  - first:
+      43: 4300034
+    second: m05
+  - first:
+      43: 4300036
+    second: m07
+  - first:
+      43: 4300038
+    second: Gladius02
+  - first:
+      43: 4300040
+    second: Hammer
+  - first:
+      43: 4300042
+    second: Arrow
+  - first:
+      43: 4300044
+    second: Spear
+  - first:
+      43: 4300046
+    second: Longsword
+  - first:
+      43: 4300048
+    second: Broadsword
+  - first:
+      43: 4300050
+    second: SpaceRifleOld
+  - first:
+      43: 4300052
+    second: Rifle
+  - first:
+      43: 4300054
+    second: Broadsword02
+  - first:
+      43: 4300056
+    second: SpacePistol
+  - first:
+      43: 4300058
+    second: Bow
+  - first:
+      43: 4300060
+    second: Shield02
+  - first:
+      43: 4300062
+    second: Shield01
+  - first:
+      43: 4300064
+    second: Gladius
+  - first:
+      43: 4300066
+    second: Shield03
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A01
+    second: {fileID: 2100000, guid: e4ce4796667604f4e973d2ee9ae08cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A03
+    second: {fileID: 2100000, guid: 0ef7c37c4cb381140bd23a21e0c5cc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A04
+    second: {fileID: 2100000, guid: a2ef6879b23ae324e9fdc2a1943b4a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A05
+    second: {fileID: 2100000, guid: 34bdfe0aa55c1bd458f1096ce57477c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A06
+    second: {fileID: 2100000, guid: c7617d5c7165e1641846ccb6e1149cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B03
+    second: {fileID: 2100000, guid: 70a142e5191bbeb4faadbc9db569ba6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b06
+    second: {fileID: 2100000, guid: 37d2e3a0fb175ba458158a7d37ae4e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d01
+    second: {fileID: 2100000, guid: 4f4957c05d90ae14081ab28552ba47fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spacerifle
+    second: {fileID: 2100000, guid: 52eccf11843988c4daa6e47e1fa0abd1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
